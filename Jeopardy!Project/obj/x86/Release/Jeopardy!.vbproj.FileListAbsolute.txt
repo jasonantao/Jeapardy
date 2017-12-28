@@ -1,0 +1,29 @@
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\bin\Release\Jeopardy!.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\bin\Release\Jeopardy!.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\bin\Release\Jeopardy!.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\WindowsApplication1.form_menu.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\WindowsApplication1.form_jeopardyround.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\WindowsApplication1.form_answer.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\Jeopardy!.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\Jeopardy!.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy!\Jeopardy!\obj\x86\Release\Jeopardy!.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\bin\Release\Jeopardy!.exe.manifest
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\bin\Release\Jeopardy!.application
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\bin\Release\Jeopardy!.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\bin\Release\Jeopardy!.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\bin\Release\Jeopardy!.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\WindowsApplication1.form_menu.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\WindowsApplication1.form_jeopardy.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\Jeopardy!.exe.manifest
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\Jeopardy!.application
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\Jeopardy!.exe
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\Jeopardy!.xml
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\Jeopardy!\Jeopardy! Basic Functions - Copy\Jeopardy! Final!\Jeopardy!\obj\x86\Release\Jeopardy!.pdb
